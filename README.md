@@ -6,5 +6,6 @@ bird79_job1 first commit
 mywindbell_job1 first commit
 edit from bird79
 mywindbell_job1 first commit
+rebase from branch
 first
 test2
